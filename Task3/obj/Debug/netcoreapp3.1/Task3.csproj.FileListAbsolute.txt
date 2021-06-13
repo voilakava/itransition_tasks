@@ -1,0 +1,12 @@
+/Users/natavoylokova/Desktop/itra/Task3/bin/Debug/netcoreapp3.1/Task3.deps.json
+/Users/natavoylokova/Desktop/itra/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.json
+/Users/natavoylokova/Desktop/itra/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.dev.json
+/Users/natavoylokova/Desktop/itra/Task3/bin/Debug/netcoreapp3.1/Task3.dll
+/Users/natavoylokova/Desktop/itra/Task3/bin/Debug/netcoreapp3.1/Task3.pdb
+/Users/natavoylokova/Desktop/itra/Task3/obj/Debug/netcoreapp3.1/Task3.csprojAssemblyReference.cache
+/Users/natavoylokova/Desktop/itra/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfoInputs.cache
+/Users/natavoylokova/Desktop/itra/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfo.cs
+/Users/natavoylokova/Desktop/itra/Task3/obj/Debug/netcoreapp3.1/Task3.csproj.CoreCompileInputs.cache
+/Users/natavoylokova/Desktop/itra/Task3/obj/Debug/netcoreapp3.1/Task3.dll
+/Users/natavoylokova/Desktop/itra/Task3/obj/Debug/netcoreapp3.1/Task3.pdb
+/Users/natavoylokova/Desktop/itra/Task3/obj/Debug/netcoreapp3.1/Task3.genruntimeconfig.cache
